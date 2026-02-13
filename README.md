@@ -37,4 +37,4 @@ I have hands-on experience working with **Raspberry Pi 4**, developing **industr
 ## 📫 Contact
 
 - **Email:** abdullahaslamm2001@gmail.com  
-- **LinkedIn:** Abdullah Aslam
+- **LinkedIn:** www.linkedin.com/in/abdullah-aslam-506b0b1a1
