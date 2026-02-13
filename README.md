@@ -25,6 +25,24 @@ I have hands-on experience working with **Raspberry Pi 4**, developing **industr
 
 ---
 
+## 🚀 Selected Projects
+
+### 🔹 Cashless Vending Platform (Full-Stack System)
+**Problem:** Legacy systems were unreliable, hard to scale, and poorly structured  
+**Solution:** Designed a modern backend with clean APIs, proper data modeling, and server-side business logic  
+**Impact:** Running in production, handling real users and transactions  
+
+**Tech:** Node.js, TypeScript, MongoDB, Next.js, Azure VM  
+
+---
+
+### 🔹 Smart Locker Management System
+**Problem:** No centralized platform for managing inventory, users, and access  
+**Solution:** Built a multi-tenant backend with role-based access and real-time state management  
+**Impact:** Enabled scalable locker operations across multiple tenants  
+
+**Tech:** Node.js, SQL, MongoDB, Azure
+
 ## 📌 Current Focus
 
 - Scalable IoT architectures  
